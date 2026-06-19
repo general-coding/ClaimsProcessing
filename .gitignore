@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ClaimsProcessing.API/bin/Debug/net10.0
+/ClaimsProcessing.API/obj
+/ClaimsProcessing.Models/bin/Debug/net10.0
+/ClaimsProcessing.Models/obj

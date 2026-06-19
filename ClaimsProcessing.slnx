@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClaimsProcessing.API/ClaimsProcessing.API.csproj" />
+  <Project Path="ClaimsProcessing.Models/ClaimsProcessing.Models.csproj" />
+</Solution>
